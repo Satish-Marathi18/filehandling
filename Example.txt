@@ -1,0 +1,2 @@
+This is buffered writer and reader example.
+This is new line
